@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Domine:400,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800);
 
@@ -22,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Domine', serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1395,8 +1394,8 @@ body {
   }
 }
 .cid-qY2M1H0vgm {
-  padding-top: 60px;
-  padding-bottom: 15px;
+  padding-top: 75px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qY2M1H0vgm .mbr-section-subtitle {
