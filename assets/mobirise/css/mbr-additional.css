@@ -1394,6 +1394,56 @@ body {
     width: 100% !important;
   }
 }
+.cid-qY2M1H0vgm {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qY2M1H0vgm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qY2AvcUlDX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qY2AvcUlDX .card-img {
+  background-color: #fff;
+}
+.cid-qY2AvcUlDX .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qY2AvcUlDX h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qY2AvcUlDX p {
+  text-align: left;
+}
+.cid-qY2AvcUlDX .mbr-text {
+  color: #767676;
+}
+.cid-qY2AvcUlDX .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qY2AvcUlDX .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qY2AvcUlDX .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qY2AvcUlDX .card-title {
+  text-align: center;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1836,56 +1886,6 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-}
-.cid-qY2M1H0vgm {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qY2M1H0vgm .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qY2AvcUlDX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-qY2AvcUlDX .card-img {
-  background-color: #fff;
-}
-.cid-qY2AvcUlDX .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qY2AvcUlDX h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qY2AvcUlDX p {
-  text-align: left;
-}
-.cid-qY2AvcUlDX .mbr-text {
-  color: #767676;
-}
-.cid-qY2AvcUlDX .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qY2AvcUlDX .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qY2AvcUlDX .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qY2AvcUlDX .card-title {
-  text-align: center;
 }
 .cid-qY2AAvWnJI {
   padding-top: 0px;
