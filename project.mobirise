@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Famil Website",
+    "name": "주식회사 파밀",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -57,14 +57,17 @@
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "true",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "주식회사파밀",
+        "meta_descr": "주식회사 파밀입니다.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -770,8 +773,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "company",
+        "meta_descr": "주식회사파밀 회사정보",
+        "title": "주식회사파밀_회사정보",
         "order": 1
       },
       "components": [
