@@ -2143,7 +2143,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #149dcc !important;
 }
 .cid-qY2ArgZOO9 {
   padding-top: 90px;
@@ -2891,6 +2891,9 @@ body {
   .cid-rkuKLm5t3p .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-rkuKLm5t3p .mbr-timeline-date B {
+  color: #cc2952;
 }
 .cid-rkuKufzK17 {
   padding-top: 90px;
